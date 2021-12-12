@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Md Farhan Ishtiaque
+# Hi there 👋 I'm Md Farhan Ishtiaque
 <!--
 **FarhanIshtiaque/FarhanIshtiaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
