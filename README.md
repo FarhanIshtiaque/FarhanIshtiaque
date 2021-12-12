@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarhanIshtiaque&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FE428E&ring=FE428E&fire=FE428E&currStreakLabel=FE428E)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarhanIshtiaque&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb)](https://git.io/streak-stats)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanIshtiaque&langs_count=5&theme=radical&hide=makefile&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanIshtiaque&langs_count=5&theme=radical&hide=makefile&bg_color=000000&hide_border=true&title_color=1f6feb)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
