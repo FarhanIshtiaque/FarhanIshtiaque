@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 
 
 
-<h4 align="Center">Connect with me:</h4>
-<p align="Center">
-<a href="https://twitter.com/https://twitter.com/rexfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rexfarhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://bd.linkedin.com/in/farhanishtiaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/farhanishtiaque" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/farhanishtiaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/farhanishtiaque" height="30" width="40" /></a>
+
+
+<h4 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rexfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rexfarhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farhanishtiaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhanishtiaque" height="30" width="40" /></a>
+<a href="https://fb.com/farhanishtiaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhanishtiaque" height="30" width="40" /></a>
 </p>
 
 
