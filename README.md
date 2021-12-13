@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Flutter | Dart | Java</h3>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanishtiaque&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" alt="farhanishtiaque" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanishtiaque&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=1f6feb" alt="farhanishtiaque" /></p>
 
 
 
