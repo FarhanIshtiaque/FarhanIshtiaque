@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Md Farhan Ishtiaque</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Md Farhan Ishtiaque</h1>
 <h3 align="center">Software Engineer | Flutter | Dart | Java</h3>
 
 
