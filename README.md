@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Md Farhan Ishtiaque</h1>
-<h3 align="center">Software Engineer | Flutter | Dart | Java</h3>
-
+<h3 align="center">Software Engineer | Flutter | Dart | Java | Swift</h3>
+<h4 align="center">I'm a passionate Flutter developer who loves creating beautiful and functional apps using Flutter. With 3 years of experience in developing mobile apps, I'm proficient in creating apps with Flutter that run on both iOS and Android devices. I'm excited to share my knowledge and skills with the Flutter community!</h4>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanishtiaque&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=1f6feb&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=1f6feb" alt="farhanishtiaque" /></p>
 
